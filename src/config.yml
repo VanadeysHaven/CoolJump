@@ -1,0 +1,13 @@
+# Upward Force - This defines the upward force
+# This number gets added to the Y value of the player's velocity.
+# Entering 1 here does NOT mean 1 block upward force
+# For reference 3 = ~40 blocks. You can enter a decimal number here: like 1.5
+# You should keep this number under 2
+# Default value: 1.1
+UpwardForce: 1.1
+
+# Forward force - This defines the forward force
+# This number gets multiplied with the current velocity of the player.
+# You should keep this number under 1
+# Default value: 0.4
+ForwardForce: 0.4

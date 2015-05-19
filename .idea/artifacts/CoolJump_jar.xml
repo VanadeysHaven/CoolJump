@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CoolJump:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CoolJump_jar</output-path>
+    <root id="archive" name="CoolJump.jar">
+      <element id="module-output" name="CoolJump" />
+    </root>
+  </artifact>
+</component>

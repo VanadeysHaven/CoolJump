@@ -1,0 +1,8 @@
+name: CoolJump
+version: 1.0
+description: CoolJump
+author: Cooltimmetje
+main: me.Cooltimmetje.RoodCore.Main
+commands:
+    cooljump:
+        description: cooljump
